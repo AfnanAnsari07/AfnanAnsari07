@@ -48,7 +48,7 @@
   <img src="https://www.svgrepo.com/show/306453/mysql.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452210/git.svg" height="40" alt="git logo"  />
-  <img width=12' />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/448222/figma.svg" height="40" alt="figma logo"  />
