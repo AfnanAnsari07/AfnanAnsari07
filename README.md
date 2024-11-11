@@ -1,25 +1,62 @@
-<h1 align="center">Hi 👋, I'm Afnan Ansari</h1>
-<h3 align="center">A front-end developer and BCA student with a passion for building interactive and responsive websites. Currently learning the MERN stack to become a full-stack developer.</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🔭 I’m currently working on **Improving Front-end Development skills.**
+###
 
-- 🌱 I’m currently learning **MERN Stack**
+<p align="left">A front-end developer and BCA student with a passion for building interactive and responsive websites. Currently learning the MERN stack to become a full-stack developer.</p>
 
-- 👯 I’m looking to collaborate on **Front-end projects**
+###
 
-- 💬 Ask me about **JavaScript, PHP, MySQL and Front-end Development**
+<h2 align="left">💫 About me</h2>
 
-- 📫 How to reach me **kingafnan2498@gmail.com**
+###
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/5bh310avoid1hc8lfvijp/Resume.pdf?rlkey=9k3wh9djen5lmuxg6ghg1ohga&st=qyar5rk0&dl=0](https://www.dropbox.com/scl/fi/5bh310avoid1hc8lfvijp/Resume.pdf?rlkey=9k3wh9djen5lmuxg6ghg1ohga&st=qyar5rk0&dl=0)
+🔭 **I’m currently working on :** <br> Improving Front-end Development skills.
 
-- ⚡ Fun fact **I turn bugs into features... just kidding, I squash them**
+🌱 **I’m currently learning :** <br> MERN Stack.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ afnan-ansari07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ afnan-ansari07" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/https.affx/?igsh=mwc3ajrkmti0ehftaq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/https.affx/?igsh=mwc3ajrkmti0ehftaq%3d%3d" height="30" width="40" /></a>
-</p>
+👯 **I’m looking to collaborate on :** <br> Front-end projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+💬 **Ask me about :** <br> JavaScript, PHP, MySQL and Front-end Development.
+
+📫 **How to reach me :** <br> kingafnan2498@gmail.com
+
+📄 **Know about my experiences :** <br> [https://www.dropbox.com/scl/fi/5bh310avoid1hc8lfvijp/Resume.pdf?rlkey=9k3wh9djen5lmuxg6ghg1ohga&st=qyar5rk0&dl=0](https://www.dropbox.com/scl/fi/5bh310avoid1hc8lfvijp/Resume.pdf?rlkey=9k3wh9djen5lmuxg6ghg1ohga&st=qyar5rk0&dl=0)
+
+⚡ **Fun fact :** <br> I turn bugs into features... just kidding, I squash them.
+
+###
+
+<h2 align="left">💻 Tech Stack :</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/306453/mysql.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452210/git.svg" height="40" alt="git logo"  />
+  <img width=12' />
+  <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/448222/figma.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  
+  
+</div>
+
+###
