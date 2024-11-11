@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A front-end developer and BCA student with a passion for building interactive and responsive websites. Currently learning the MERN stack to become a full-stack developer.</p>
+<p align="left">My name is Afnan Ansari, I am front-end developer and BCA student with a passion for building interactive and responsive websites. Currently learning the MERN stack to become a full-stack developer.</p>
 
 ###
 
